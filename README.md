@@ -13,7 +13,8 @@ Welcome to the Word Finder App, a simple application for finding valid words fro
 - Displays a list of valid words from a predefined dictionary.
 
 ## Getting Started
-
-- npm install 
+- git clone https://github.com/DmitriiTsy/WordCraft/tree/master  (to clone the repo)
+- cd WordCraft (to go to the main folder)
+- npm install (install all files)
 - npm run test (to launch unit test for the app) 
 - expo start (to launch the mobile app) 
