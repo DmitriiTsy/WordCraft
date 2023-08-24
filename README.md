@@ -18,3 +18,9 @@ Welcome to the Word Finder App, a simple application for finding valid words fro
 - npm install (install all files)
 - npm run test (to launch unit test for the app) 
 - expo start (to launch the mobile app) 
+
+
+## Performance Optimization:
+- Optimize the word-finding algorithm for improved speed, especially for longer input strings.
+- Implement caching to store previously searched words, reducing redundant computations.
+- Enhance the app's responsiveness to deliver quicker search results.
